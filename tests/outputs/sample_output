@@ -1,0 +1,14 @@
+<Buffer 36 0a 2a 2c 62 2c 2a 0a 61 2c 2a 2c 2a 0a 2a 2c 2a 2c 63 0a 66 6f 6f 2c 62 61 72 2c 62 61 7a 0a 77 2c 78 2c 2a 2c 2a 0a 2a 2c 78 2c 79 2c 7a 0a 35 0a ... >
+6
+*,b,*
+a,*,*
+*,*,c
+foo,bar,baz
+w,x,*,*
+*,x,y,z
+5
+/w/x/y/z/
+a/b/c
+foo/
+foo/bar/
+foo/bar/baz/
